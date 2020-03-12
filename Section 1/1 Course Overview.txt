@@ -1,0 +1,44 @@
+Course Overview
+You will learn to setup a Web Development Environment with various tools/editors in a Ubuntu 18.04 environment.
+
+
+
+You will learn to:
+
+Creat Virtual Machine VirtualBox
+
+Install Ubuntu 18.04 Desktop OS in a VM using VirtualBox
+
+Update Ubuntu 18.04
+
+Install Chrome
+
+Install Oracle JRE & JDK
+
+Install/Setup Python Environment
+
+Install/Setup django Environment
+
+Install MySQL
+
+Install MySQL Workbench
+
+Install Atom
+
+Install Sublime Text
+
+Install Brackets
+
+Install PyCharm
+
+Install Eclipse
+
+Install Netbeans 8.2
+
+Create Bitbucket Account & Create a repository
+
+Verify git installation
+
+Clone Bitbucket Repository
+
+Push changes to BitBucket
